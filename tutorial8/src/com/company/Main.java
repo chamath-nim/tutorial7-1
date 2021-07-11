@@ -5,7 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String reply,secondreply;
         do {
-            System.out.println("Enter a player number");
+            System.out.println("Enter a player number");rgq34gq34
             System.out.println("1. Dawid Malan");
             System.out.println("2. Aaron Finch");
             System.out.println("3. Babar Azam");
